@@ -1,2 +1,2 @@
-# S-Academy
-Tasks from S-Academy
+# Sirma Academy - Java
+Exercises: Sirma Academy - Java.
