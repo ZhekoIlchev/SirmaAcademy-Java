@@ -1,0 +1,6 @@
+(1) Hello, world!
+
+(3) binding values:
+(4) bind TAB = "show console";
+(5) bind ESC = "clear console";
+(6) ...
