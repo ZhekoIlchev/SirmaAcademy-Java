@@ -29,6 +29,5 @@ bin/
 .DS_Store
 /.idea/
 /extracted_files/
-/task-06-output.txt
 /task-08-output.txt
 /task-10-output.txt
