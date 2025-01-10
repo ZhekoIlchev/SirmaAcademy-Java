@@ -12,7 +12,6 @@ public class Example_04_Read_BufferedReader {
 
 //        BufferedReader bufferedReader = new BufferedReader(new FileReader("task-02.txt"));
 
-
         try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream("input.txt")));
              BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("output.txt")));) {
 
